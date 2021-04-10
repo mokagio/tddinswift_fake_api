@@ -1,16 +1,16 @@
 [
-  { "name": "Penne all'Arrabbiata", "category": "Pastas", "spicy": true, "price": 4.5 },
-  { "name": "Tortiglioni alla Puttanesca", "category": "Pastas", "spicy": false, "price": 4.5 },
-  { "name": "Spaghetti Aglio, Olio, e Peperoncino", "category": "Pastas", "spicy": true, "price": 8.0 },
-  { "name": "Tortellini alla Panna", "category": "Pastas", "spicy": false, "price": 6.0 },
+  { "name": "Penne all'Arrabbiata", "category": "pastas", "spicy": true, "price": 4.5 },
+  { "name": "Tortiglioni alla Puttanesca", "category": "pastas", "spicy": false, "price": 4.5 },
+  { "name": "Spaghetti Aglio, Olio, e Peperoncino", "category": "pastas", "spicy": true, "price": 8.0 },
+  { "name": "Tortellini alla Panna", "category": "pastas", "spicy": false, "price": 6.0 },
 
-  { "name": "Caprese Salad", "category": "Starters", "spicy": false, "price": 6.0 },
-  { "name": "Arancini Balls", "category": "Starters", "spicy": false, "price": 6.0 },
+  { "name": "Caprese Salad", "category": "starters", "spicy": false, "price": 6.0 },
+  { "name": "Arancini Balls", "category": "starters", "spicy": false, "price": 6.0 },
 
-  { "name": "Tiramisù", "category": "Desserts", "spicy": false, "price": 6.0 },
-  { "name": "Panna Cotta", "category": "Desserts", "spicy": false, "price": 6.0 },
+  { "name": "Tiramisù", "category": "desserts", "spicy": false, "price": 6.0 },
+  { "name": "Panna Cotta", "category": "desserts", "spicy": false, "price": 6.0 },
 
-  { "name": "Sangiovese (Red Wine)", "category": "Drinks", "spicy": false, "price": 4.5 },
-  { "name": "Prosecco (White Wine)", "category": "Drinks", "spicy": false, "price": 4.5 },
-  { "name": "Water", "category": "Drinks", "spicy": false, "price": 1.0 }
+  { "name": "Sangiovese (Red Wine)", "category": "drinks", "spicy": false, "price": 4.5 },
+  { "name": "Prosecco (White Wine)", "category": "drinks", "spicy": false, "price": 4.5 },
+  { "name": "Water", "category": "drinks", "spicy": false, "price": 1.0 }
 ]
